@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 10px;
+}
+
+body {
+    background-image: url(image/pattern5.png);
+}
+
+#judul{
+    background-color: bisque;
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    font-family: anton;
+    text-align: center;
+    padding: 30px;
+    border: 10px solid rgb(250, 198, 135);
+    border-radius: 15px ;
+}
+
+.media img {
+    width: 500px;
+    height: 350px;
+    display: block;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.gambar img {
+    width: 400px;
+    height: 260px;
+    display: block;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+}
+
+.content {
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    font-size: 18px;
+    font-family:outfit ;
+    color: black;
+}
+
+.paragraf {
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    font-size: 18px;
+    font-family:outfit ;
+    color: black;
+    background-color: bisque;
+    border-radius: 15px;
+}
+
+.Juduldua {
+    font-size: 20px ;
+    font-family: oswald;
+}
+
+.profil img {
+    width: 100px;
+    height: 100px;
+}
+
+.kotak
+{
+    text-align: justify;
+    font-size: 13px;
+    font-family:outfit ;
+    color: black;
+    background-color: bisque;
+    border-radius: 15px;
+}
